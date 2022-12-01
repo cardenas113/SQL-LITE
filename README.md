@@ -40,4 +40,4 @@
 <img src = s10.png>
 
 # Backup, restore
-<img src = s11.png>
+<img src = s11.png># consultas-sql
